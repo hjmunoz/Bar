@@ -1,0 +1,7 @@
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\bin\Debug\BAR.exe.config
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\bin\Debug\BAR.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\bin\Debug\BAR.pdb
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\obj\Debug\BAR.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\obj\Debug\BAR.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\obj\Debug\BAR.exe
+C:\Users\hecto\OneDrive\Escritorio\C#\BAR\BAR\obj\Debug\BAR.pdb
